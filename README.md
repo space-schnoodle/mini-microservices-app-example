@@ -12,6 +12,7 @@ Build, deploy, and scale an E-Commerce app using Microservices built with Node, 
 
 ### Node version
 
-For comments service and post service is 16.0.0.
+For comments service and post service is v16.0.0.
 
+For the client using node v19.3.0
 
