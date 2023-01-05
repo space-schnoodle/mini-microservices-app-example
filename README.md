@@ -29,6 +29,4 @@ moderation
 post  
 query
 
-and at last the  
-event-bus  
-project.
+and at last the event-bus project.
